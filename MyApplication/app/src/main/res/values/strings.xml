@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button1">改变</string>
+    <string name="login">login</string>
+    <string name="admin_login">admin_login</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="user">user</string>
+    <string name="change">change</string>
+    <string name="menu">menu</string>
+</resources>
